@@ -73,7 +73,7 @@ try:
 
     @bot.message_handler(commands=["start"])
     def send_start_message(msg):
-        bot.reply_to(msg,"Welcome.....ZCam tool is for Eductaional purpose only. Use /help for more info. Support @Team_ETF for more..... JOIN: https://youtube.com/channel/UCJnx0yDhcTLWM3ZrAtSvaIw")
+        bot.reply_to(msg,"Welcome.....ZCam tool is for Eductaional purpose only. Use /help for more info. Support @source_alpop for more..... JOIN: @j_S_9 -- @vip_alpop")
         global user_id
         user_id = msg.chat.id
 
